@@ -1,0 +1,4 @@
+*.log
+!vip.log
+note_packs/
+text.txt
